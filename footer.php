@@ -23,8 +23,7 @@
               class="elementor-element elementor-element-ba9eb28 elementor-widget__width-initial elementor-widget-tablet__width-initial elementor-widget-mobile__width-inherit elementor-widget elementor-widget-text-editor"
               data-id="ba9eb28" data-element_type="widget" data-widget_type="text-editor.default">
               <div class="elementor-widget-container">
-                Sign up today and join thousands of businesses that trust our solution to manage their HR and
-                payroll needs efficiently. </div>
+              Rendez votre prospection plus facile et prenez un essai gratuit avec Meyo.</div>
             </div>
             <div class="elementor-element elementor-element-1b30f14 e-con-full e-flex e-con e-child"
               data-id="1b30f14" data-element_type="container">

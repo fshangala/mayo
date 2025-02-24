@@ -15,14 +15,14 @@
             class="elementor-element elementor-element-2554739 ui-borderanim-rotate ui-gradient elementor-widget elementor-widget-heading"
             data-id="2554739" data-element_type="widget" data-widget_type="heading.default">
             <div class="elementor-widget-container">
-              <h6 class="elementor-heading-title elementor-size-default">Reviews</h6>
+              <h6 class="elementor-heading-title elementor-size-default">Avis</h6>
             </div>
           </div>
           <div
             class="elementor-element elementor-element-377f369 elementor-widget__width-initial elementor-widget-tablet__width-initial elementor-widget-mobile__width-inherit elementor-widget elementor-widget-heading"
             data-id="377f369" data-element_type="widget" data-widget_type="heading.default">
             <div class="elementor-widget-container">
-              <h2 class="elementor-heading-title elementor-size-default">Hear from our customers</h2>
+              <h2 class="elementor-heading-title elementor-size-default">Écoutez nos clients</h2>
             </div>
           </div>
           <div

@@ -11,23 +11,8 @@
         data-widget_type="image.default">
         <div class="elementor-widget-container">
           <img loading="lazy" decoding="async" width="784" height="160"
-            src="wp-content/uploads/sites/7/2024/06/Web-App-Automated-Image-1.webp"
-            class="attachment-full size-full wp-image-82" alt=""
-            srcset="https://upshift.uicore.co/web-app/wp-content/uploads/sites/7/2024/06/Web-App-Automated-Image-1.webp 784w, https://upshift.uicore.co/web-app/wp-content/uploads/sites/7/2024/06/Web-App-Automated-Image-1-300x61.webp 300w, https://upshift.uicore.co/web-app/wp-content/uploads/sites/7/2024/06/Web-App-Automated-Image-1-768x157.webp 768w, https://upshift.uicore.co/web-app/wp-content/uploads/sites/7/2024/06/Web-App-Automated-Image-1-650x133.webp 650w"
-            sizes="(max-width: 784px) 100vw, 784px" />
-        </div>
-      </div>
-      <div
-        class="elementor-element elementor-element-f265d2a elementor-invisible elementor-widget elementor-widget-image"
-        data-id="f265d2a" data-element_type="widget"
-        data-settings="{&quot;_animation&quot;:&quot;fadeInDown&quot;,&quot;_animation_delay&quot;:&quot;240&quot;}"
-        data-widget_type="image.default">
-        <div class="elementor-widget-container">
-          <img loading="lazy" decoding="async" width="784" height="702"
-            src="wp-content/uploads/sites/7/2024/06/Web-App-Automated-Image-2.webp"
-            class="attachment-full size-full wp-image-83" alt=""
-            srcset="https://upshift.uicore.co/web-app/wp-content/uploads/sites/7/2024/06/Web-App-Automated-Image-2.webp 784w, https://upshift.uicore.co/web-app/wp-content/uploads/sites/7/2024/06/Web-App-Automated-Image-2-300x269.webp 300w, https://upshift.uicore.co/web-app/wp-content/uploads/sites/7/2024/06/Web-App-Automated-Image-2-768x688.webp 768w, https://upshift.uicore.co/web-app/wp-content/uploads/sites/7/2024/06/Web-App-Automated-Image-2-650x582.webp 650w"
-            sizes="(max-width: 784px) 100vw, 784px" />
+            src="assets/linkedin.png"
+            class="attachment-full size-full wp-image-82" alt="" />
         </div>
       </div>
     </div>
@@ -37,16 +22,14 @@
         class="elementor-element elementor-element-47e7cf4 elementor-widget__width-initial elementor-widget-tablet__width-initial elementor-widget-mobile__width-inherit elementor-widget elementor-widget-heading"
         data-id="47e7cf4" data-element_type="widget" data-widget_type="heading.default">
         <div class="elementor-widget-container">
-          <h2 class="elementor-heading-title elementor-size-default">Automated payroll system</h2>
+          <h2 class="elementor-heading-title elementor-size-default">Trouvez les meilleurs prospects</h2>
         </div>
       </div>
       <div
         class="elementor-element elementor-element-a7e705e elementor-widget elementor-widget-text-editor"
         data-id="a7e705e" data-element_type="widget" data-widget_type="text-editor.default">
         <div class="elementor-widget-container">
-          Eliminate errors and reduce administrative burdens with our automated payroll system that
-          ensures accurate and on-time payments. Includes features like tax calculation, benefits
-          deduction, and direct deposit. </div>
+        Obtenez facilement des milliers de prospects LinkedIn qualifiés en quelques secondes. Ou trouvez-les manuellement directement sur LinkedIn, Sales Navigator, google maps ou depuis votre liste en csv ou json.</div>
       </div>
       <div
         class="elementor-element elementor-element-89a23bb elementor-mobile-align-center elementor-widget elementor-widget-button"

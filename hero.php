@@ -11,7 +11,7 @@
         data-settings="{&quot;_animation_delay&quot;:300,&quot;_animation&quot;:&quot;fadeInUp&quot;}"
         data-widget_type="heading.default">
         <div class="elementor-widget-container">
-          <h6 class="elementor-heading-title elementor-size-default">Meet Mayo</h6>
+          <h6 class="elementor-heading-title elementor-size-default">Rencontrer Meyo</h6>
         </div>
       </div>
       <div
@@ -20,7 +20,7 @@
         data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_delay&quot;:360}"
         data-widget_type="heading.default">
         <div class="elementor-widget-container">
-          <h1 class="elementor-heading-title elementor-size-default">Transform your HR and payrollprocesses today</h1>
+          <h1 class="elementor-heading-title elementor-size-default">Fini le travail manuel, place à l'efficacité !</h1>
         </div>
       </div>
       <div
@@ -29,8 +29,8 @@
         data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_delay&quot;:420}"
         data-widget_type="text-editor.default">
         <div class="elementor-widget-container">
-          Streamline operations, ensure compliance, and enhance employee satisfaction with our
-          all-in-one HR and payroll solution. </div>
+        Récupérez vos données. Automatisez vos campagnes. Boostez vos résultats.
+        </div>
       </div>
       <div
         class="elementor-element elementor-element-97b8041 elementor-align-center elementor-invisible elementor-widget elementor-widget-button"
@@ -41,7 +41,7 @@
           <div class="elementor-button-wrapper">
           <div class="input-group mb-3 input-group-lg">
             <input type="email" class="form-control rounded-start-pill" placeholder="E-mail" aria-label="Recipient's username" aria-describedby="button-addon2">
-            <button class="btn btn-outline-secondary rounded-end-pill" type="button" id="button-addon2">Get intouch</button>
+            <button class="btn btn-outline-secondary rounded-end-pill" type="button" id="button-addon2">Entrer en contact</button>
           </div>
           </div>
         </div>
