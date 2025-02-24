@@ -35,7 +35,7 @@ class Page {
           include('about.php');
           include('benefits.php');
           include('features.php');
-          include('integrations.php');
+          include('reviews.php');
           include('faq.php');
           ?>
         </div>

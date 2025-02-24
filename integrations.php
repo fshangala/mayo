@@ -818,6 +818,33 @@
     class="elementor-element elementor-element-92b56f8 e-con-full e-flex elementor-invisible e-con e-child"
     data-id="92b56f8" data-element_type="container"
     data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;fadeInUp&quot;,&quot;animation_delay&quot;:&quot;160&quot;}">
+    
+    <div class="owl-carousel">
+            <div class="reviews">
+              <div class="review-text">
+                "Mayo has revolutionized how we manage our HR and payroll. The automated
+                functionalities and in-depth reports have brought a new level of
+                efficiency and accuracy to our daily work." </div>
+              <h4 class="review-name">
+                <span>Maria Lopez</span>
+              </h4>
+              <div class="review-title">
+                <span>HR Manager of Border</span>
+              </div>
+            </div>
+            <div class="reviews">
+              <div class="review-text">
+                "Mayo has revolutionized how we manage our HR and payroll. The automated
+                functionalities and in-depth reports have brought a new level of
+                efficiency and accuracy to our daily work." </div>
+              <h4 class="review-name">
+                <span>Maria Lopez</span>
+              </h4>
+              <div class="review-title">
+                <span>HR Manager of Border</span>
+              </div>
+            </div>
+          </div>
     <div class="elementor-element elementor-element-97dc80f e-flex e-con-boxed e-con e-child"
       data-id="97dc80f" data-element_type="container" id="testimonials"
       data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
@@ -838,50 +865,6 @@
             <div class="elementor-widget-container">
               <h2 class="elementor-heading-title elementor-size-default">Hear from our users</h2>
             </div>
-          </div>
-          <div id="carouselExampleIndicators" class="carousel slide">
-            <div class="carousel-indicators">
-              <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
-              <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
-              <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
-            </div>
-            <div class="carousel-inner">
-              <div class="carousel-item active">
-                <div class="ui-e-animations-wrp  ">
-                  <div class="ui-e-item">
-                    <div class="ui-e-content">
-
-                      <div class="ui-e-testimonial-text ">
-                        "Mayo has revolutionized how we manage our HR and payroll. The automated
-                        functionalities and in-depth reports have brought a new level of
-                        efficiency and accuracy to our daily work." </div>
-
-                      <h4 class="ui-e-testimonial-name ">
-                        <span>Maria Lopez</span>
-                      </h4>
-                      <div class="ui-e-testimonial-job-title ">
-                        <span>HR Manager of Border</span>
-                      </div>
-
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div class="carousel-item">
-                <img src="..." class="d-block w-100" alt="...">
-              </div>
-              <div class="carousel-item">
-                <img src="..." class="d-block w-100" alt="...">
-              </div>
-            </div>
-            <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
-              <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-              <span class="visually-hidden">Previous</span>
-            </button>
-            <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
-              <span class="carousel-control-next-icon" aria-hidden="true"></span>
-              <span class="visually-hidden">Next</span>
-            </button>
           </div>
           <div class="elementor-element elementor-element-cc8b25e e-con-full e-flex e-con e-child"
             data-id="cc8b25e" data-element_type="container"
