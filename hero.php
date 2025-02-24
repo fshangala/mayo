@@ -40,7 +40,7 @@
         <div class="elementor-widget-container">
           <div class="elementor-button-wrapper">
           <div class="input-group mb-3 input-group-lg">
-            <input type="text" class="form-control rounded-start-pill" placeholder="Recipient's username" aria-label="Recipient's username" aria-describedby="button-addon2">
+            <input type="email" class="form-control rounded-start-pill" placeholder="E-mail" aria-label="Recipient's username" aria-describedby="button-addon2">
             <button class="btn btn-outline-secondary rounded-end-pill" type="button" id="button-addon2">Get intouch</button>
           </div>
           </div>
@@ -56,7 +56,7 @@
         <img loading="lazy" decoding="async" width="1764" height="1103"
           src="wp-content/uploads/sites/7/2024/06/Web-App-Hero-Image.webp"
           class="attachment-full size-full wp-image-68" alt=""
-          srcset="https://upshift.uicore.co/web-app/wp-content/uploads/sites/7/2024/06/Web-App-Hero-Image.webp 1764w, https://upshift.uicore.co/web-app/wp-content/uploads/sites/7/2024/06/Web-App-Hero-Image-300x188.webp 300w, https://upshift.uicore.co/web-app/wp-content/uploads/sites/7/2024/06/Web-App-Hero-Image-1024x640.webp 1024w, https://upshift.uicore.co/web-app/wp-content/uploads/sites/7/2024/06/Web-App-Hero-Image-768x480.webp 768w, https://upshift.uicore.co/web-app/wp-content/uploads/sites/7/2024/06/Web-App-Hero-Image-1536x960.webp 1536w, https://upshift.uicore.co/web-app/wp-content/uploads/sites/7/2024/06/Web-App-Hero-Image-650x406.webp 650w"
+          srcset="assets/dashboard.png 1764w, https://upshift.uicore.co/web-app/wp-content/uploads/sites/7/2024/06/Web-App-Hero-Image-300x188.webp 300w, https://upshift.uicore.co/web-app/wp-content/uploads/sites/7/2024/06/Web-App-Hero-Image-1024x640.webp 1024w, https://upshift.uicore.co/web-app/wp-content/uploads/sites/7/2024/06/Web-App-Hero-Image-768x480.webp 768w, https://upshift.uicore.co/web-app/wp-content/uploads/sites/7/2024/06/Web-App-Hero-Image-1536x960.webp 1536w, https://upshift.uicore.co/web-app/wp-content/uploads/sites/7/2024/06/Web-App-Hero-Image-650x406.webp 650w"
           sizes="(max-width: 1764px) 100vw, 1764px" />
       </div>
     </div>
