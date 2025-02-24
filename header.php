@@ -6,14 +6,14 @@
       <div class="uicore-branding " data-uils="header-branding" data-uils-title="Site Logo">
 
         <a href="index.html" rel="home">
-          <img class="uicore uicore-logo uicore-main" src="wp-content/uploads/sites/7/2024/06/Upshift-Logo.webp"
+          <img class="uicore uicore-logo uicore-main" src="assets/logo.png"
             alt="Web App" />
-          <img class="uicore uicore-logo uicore-second" src="wp-content/uploads/sites/7/2024/06/Upshift-Logo.webp"
+          <img class="uicore uicore-logo uicore-second" src="assets/logo.png"
             alt="Web App" />
           <img class="uicore uicore-logo uicore-mobile-main"
-            src="wp-content/uploads/sites/7/2024/06/Upshift-Logo.webp" alt="Web App" />
+            src="assets/logo.png" alt="Web App" />
           <img class="uicore uicore-logo uicore-mobile-second"
-            src="wp-content/uploads/sites/7/2024/06/Upshift-Logo.webp" alt="Web App" />
+            src="assets/logo.png" alt="Web App" />
         </a>
 
       </div>

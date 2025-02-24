@@ -76,7 +76,7 @@
               <div class="elementor-element elementor-element-7e2d306 elementor-widget elementor-widget-image"
                 data-id="7e2d306" data-element_type="widget" data-widget_type="image.default">
                 <div class="elementor-widget-container">
-                  <img width="112" height="112" src="wp-content/uploads/sites/7/2024/06/Web-App-Footer-Logo.webp"
+                  <img width="112" height="112" src="assets/logo.png"
                     class="attachment-full size-full wp-image-110" alt="" />
                 </div>
               </div>

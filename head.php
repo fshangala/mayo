@@ -234,12 +234,13 @@
 	<meta name="generator"
 		content="Elementor 3.25.9; features: e_font_icon_svg, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-auto">
 	<meta name="theme-color" content="#0BA5EC" />
-	<link rel="shortcut icon" href="wp-content/uploads/sites/7/2024/06/Upshift-Favicon.png">
-	<link rel="icon" href="wp-content/uploads/sites/7/2024/06/Upshift-Favicon.png">
-	<link rel="apple-touch-icon" sizes="152x152" href="wp-content/uploads/sites/7/2024/06/Upshift-Favicon.png">
-	<link rel="apple-touch-icon" sizes="120x120" href="wp-content/uploads/sites/7/2024/06/Upshift-Favicon.png">
-	<link rel="apple-touch-icon" sizes="76x76" href="wp-content/uploads/sites/7/2024/06/Upshift-Favicon.png">
-	<link rel="apple-touch-icon" href="wp-content/uploads/sites/7/2024/06/Upshift-Favicon.png">
+	<link rel="shortcut icon" href="assets/logo.png">
+	<link rel="icon" href="assets/logo.png">
+	<link rel="apple-touch-icon" sizes="152x152" href="assets/logo.png">
+	<link rel="apple-touch-icon" sizes="120x120" href="assets/logo.png">
+	<link rel="apple-touch-icon" sizes="76x76" href="assets/logo.png">
+	<link rel="apple-touch-icon" href="assets/logo.png">
+	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
 	<style>
 		.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload),
 		.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload) * {

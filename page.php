@@ -1,7 +1,6 @@
 <?php
 class Page {
-  public $title = 'Default';
-  public $content = 'This is the default content.';
+  public $title = 'Meyo';
 
   function render() {
     ?>
