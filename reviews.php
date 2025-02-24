@@ -33,7 +33,7 @@
             <div class="elementor-widget-container">
               <div class="row">
                 <div class="col">
-                  <div class="card text-center text-bg-dark border-warning">
+                  <div class="card text-center text-bg-dark">
                     <div class="card-header">
                       <div class="row">
                         <div class="col">
@@ -62,7 +62,7 @@
                   </div>
                 </div>
                 <div class="col">
-                  <div class="card text-center text-bg-dark border-warning">
+                  <div class="card text-center text-bg-dark">
                     <div class="card-header">
                       <div class="row">
                         <div class="col">
@@ -91,7 +91,7 @@
                   </div>
                 </div>
                 <div class="col">
-                  <div class="card text-center text-bg-dark border-warning">
+                  <div class="card text-center text-bg-dark">
                     <div class="card-header">
                       <div class="row">
                         <div class="col">
