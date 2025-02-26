@@ -35,7 +35,6 @@ class Page {
           include('satisfaction.php');
           include('features.php');
           include('reviews.php');
-          include('faq.php');
           ?>
         </div>
       </main>

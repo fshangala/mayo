@@ -15,7 +15,7 @@
               class="elementor-element elementor-element-6978142 elementor-widget__width-initial elementor-widget-tablet__width-initial elementor-widget-mobile__width-inherit elementor-widget elementor-widget-heading"
               data-id="6978142" data-element_type="widget" data-widget_type="heading.default">
               <div class="elementor-widget-container">
-                <h2 class="elementor-heading-title elementor-size-default">Ready to optimize your HR operations?
+                <h2 class="elementor-heading-title elementor-size-default">Connectez. Automatisez. Convertissez.
                 </h2>
               </div>
             </div>
@@ -24,6 +24,7 @@
               data-id="ba9eb28" data-element_type="widget" data-widget_type="text-editor.default">
               <div class="elementor-widget-container">
               Rendez votre prospection plus facile et prenez un essai gratuit avec Meyo.</div>
+              <div class="elementor-widget-container">Essaie gratuit de 2 mois. Pas de CB requise </div>
             </div>
             <div class="elementor-element elementor-element-1b30f14 e-con-full e-flex e-con e-child"
               data-id="1b30f14" data-element_type="container">
@@ -40,19 +41,7 @@
                               d="M224.3 273l-136 136c-9.4 9.4-24.6 9.4-33.9 0l-22.6-22.6c-9.4-9.4-9.4-24.6 0-33.9l96.4-96.4-96.4-96.4c-9.4-9.4-9.4-24.6 0-33.9L54.3 103c9.4-9.4 24.6-9.4 33.9 0l136 136c9.5 9.4 9.5 24.6.1 34z">
                             </path>
                           </svg> </span>
-                        <span class="elementor-button-text">Get Started</span>
-                      </span>
-                    </a>
-                  </div>
-                </div>
-              </div>
-              <div class="elementor-element elementor-element-d32222a elementor-widget elementor-widget-button"
-                data-id="d32222a" data-element_type="widget" data-widget_type="button.default">
-                <div class="elementor-widget-container">
-                  <div class="elementor-button-wrapper">
-                    <a class="elementor-button elementor-button-link elementor-size-sm" href="#">
-                      <span class="elementor-button-content-wrapper">
-                        <span class="elementor-button-text">Schedule a demo</span>
+                        <span class="elementor-button-text">Essayez dès maintenant!</span>
                       </span>
                     </a>
                   </div>
