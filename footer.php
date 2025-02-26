@@ -71,7 +71,7 @@
               <div class="elementor-element elementor-element-7f7bdee elementor-widget elementor-widget-heading"
                 data-id="7f7bdee" data-element_type="widget" data-widget_type="heading.default">
                 <div class="elementor-widget-container">
-                  <h5 class="elementor-heading-title elementor-size-default">Subscribe to our newsletter</h5>
+                  <h5 class="elementor-heading-title elementor-size-default">Abonnez-vous à notre newsletter</h5>
                 </div>
               </div>
               <div
@@ -88,7 +88,7 @@
 
                       <div class="bdt-newsletter-input-wrapper">
                         <div class="bdt-position-relative">
-                          <input type="email" name="email" placeholder="Your email" required class="bdt-input" />
+                          <input type="email" name="email" placeholder="Votre email" required class="bdt-input" />
                           <input type="hidden" name="action" value="element_pack_mailchimp_subscribe" />
                           <input type="hidden" name="bdt-sf-bdt-mailchimp-72d3a76" value="true" />
                           <!-- we need action parameter to receive ajax request in WordPress -->
@@ -100,7 +100,7 @@
                           class="bdt-newsletter-btn bdt-button bdt-button-primary bdt-width-1-1">
                           <div class="bdt-newsletter-btn-content-wrapper  ">
                             <div class="bdt-newsletter-btn-text bdt-display-inline-block">
-                              Submit </div>
+                            Soumettre </div>
                           </div>
                         </button>
                       </div>
@@ -269,21 +269,21 @@
               <div class="elementor-widget-container">
                 <ul class="elementor-icon-list-items elementor-inline-items">
                   <li class="elementor-icon-list-item elementor-inline-item">
-                    <a href="https://uicore.co/">
+                    <a href="">
 
-                      <span class="elementor-icon-list-text">© UiCore 2024 All Rights Reserved.</span>
+                      <span class="elementor-icon-list-text">© Meyo 2024 Tous droits réservés.</span>
                     </a>
                   </li>
                   <li class="elementor-icon-list-item elementor-inline-item">
-                    <a href="https://uicore.co/">
+                    <a href="">
 
-                      <span class="elementor-icon-list-text">Terms and conditions</span>
+                      <span class="elementor-icon-list-text">Termes et conditions</span>
                     </a>
                   </li>
                   <li class="elementor-icon-list-item elementor-inline-item">
-                    <a href="https://uicore.co/">
+                    <a href="">
 
-                      <span class="elementor-icon-list-text">Privacy policy</span>
+                      <span class="elementor-icon-list-text">Politique de confidentialité</span>
                     </a>
                   </li>
                 </ul>

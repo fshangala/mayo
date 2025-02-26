@@ -1,6 +1,6 @@
 <div class="elementor-element elementor-element-d753b1d e-flex e-con-boxed e-con e-parent"
   data-id="d753b1d" data-element_type="container"
-  data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+  data-settings="{&quot;background_background&quot;:&quot;classic&quot;}" id="home">
   <div class="e-con-inner">
     <div class="elementor-element elementor-element-8b12462 e-con-full e-flex e-con e-child"
       data-id="8b12462" data-element_type="container"

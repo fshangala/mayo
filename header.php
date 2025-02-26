@@ -5,7 +5,7 @@
     <nav class="uicore elementor-container">
       <div class="uicore-branding " data-uils="header-branding" data-uils-title="Site Logo">
 
-        <a href="index.html" rel="home">
+        <a href="" rel="home">
           <img class="uicore uicore-logo uicore-main" src="assets/logo.png"
             alt="Web App" />
           <img class="uicore uicore-logo uicore-second" src="assets/logo.png"
@@ -21,22 +21,18 @@
         <div class="uicore-menu-container uicore-nav">
           <ul data-uils="header-menu" data-uils-title="Navigation Menu" class="uicore-menu">
             <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-147"><a
-                href="#about"><span class="ui-menu-item-wrapper">About</span></a></li>
+                href="#home" style="text-decoration:none"><span class="ui-menu-item-wrapper">Maison</span></a></li>
             <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10"><a
-                href="#benefits"><span class="ui-menu-item-wrapper">Benefits</span></a></li>
-            <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11"><a
-                href="#integrations"><span class="ui-menu-item-wrapper">Integrations</span></a></li>
-            <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12"><a
-                href="#pricing"><span class="ui-menu-item-wrapper">Pricing</span></a></li>
+                href="#features" style="text-decoration:none"><span class="ui-menu-item-wrapper">Caractéristiques</span></a></li>
             <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13"><a
-                href="#testimonials"><span class="ui-menu-item-wrapper">Testimonials</span></a></li>
+                href="#reviews" style="text-decoration:none"><span class="ui-menu-item-wrapper">Avis</span></a></li>
           </ul>
         </div>
         <div class="uicore uicore-extra" data-uils="header_extra" data-uils-title="Header Extras">
           <div class="uicore-cta-wrapper">
             <a href="#" target="_self" class="uicore-btn ">
               <span class="elementor-button-text">
-                Sign In </span>
+                Se connecter </span>
             </a>
           </div>
         </div>
@@ -45,7 +41,7 @@
         <div class="uicore-cta-wrapper">
           <a href="#" target="_self" class="uicore-btn ">
             <span class="elementor-button-text">
-              Sign In </span>
+              Se connecter </span>
           </a>
         </div>
         <button type="button" class="uicore-toggle uicore-ham" aria-label="mobile-menu">
